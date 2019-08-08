@@ -11,7 +11,7 @@ import android.os.Bundle;
 import android.provider.CalendarContract;
 import android.app.LoaderManager;
 import android.content.Loader;
-import android.support.annotation.Nullable;
+import javax.annotation.Nullable;
 import android.util.Log;
 
 import com.facebook.react.bridge.*;
